@@ -1,7 +1,7 @@
 <?php
 
 
-// 13 de Abril del 2014
+// 
 // View.php
 // @brief Una vista corresponde a cada componente visual dentro de un modulo.
 
@@ -20,7 +20,7 @@ class View {
 			if(View::isValid()){
 				include "core/app/view/".$_GET['view']."-view.php";				
 			}else{
-				View::Error("<b>404 NOT FOUND</b> View <b>".$_GET['view']."</b> folder !! - <a href='http://evilnapsis.com/legobox/help/' target='_blank'>Help</a>");
+				View::Error("<b>404 NOT FOUND</b> View <b>".$_GET['view']."</b> folder !! - <a href='' target='_blank'>Help</a>");
 			}
 
 

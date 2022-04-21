@@ -26,7 +26,7 @@
 // | of the script so other people can use them as well.                    |
 // | This script is free to use, don't abuse.                               |
 // +------------------------------------------------------------------------+
-//
+//Archivo class upload, para trabajar.
 
 /**
  * Class upload

@@ -6,7 +6,7 @@ include "controller/Module.php";
 include "controller/Database.php";
 include "controller/Executor.php";
 
-// 10 octubre 2014
+
 include "controller/Lb.php";
 include "controller/Model.php";
 include "controller/Bootload.php";

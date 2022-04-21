@@ -243,7 +243,7 @@
   </div>
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong><a href="http://evilnapsis.com">gersonbernal</a> &copy; 2022 </strong>
+    <strong><a href="#">gersonbernal</a> &copy; 2022 </strong>
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 2.0
     </div>

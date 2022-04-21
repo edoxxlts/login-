@@ -1,9 +1,8 @@
 <?php
 // autoload.php
-// [created] 10 octubre del 2014
-// [rebuilded] 9 abril del 2016
+// [rebuilded] 20/02/2022
 // esta funcion elimina el hecho de estar agregando los modelos manualmente
-// by evilnapsis
+// by edoxxlts
 
 function lb_autoload($modelname){
 	if(Model::exists($modelname)){
